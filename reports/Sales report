@@ -1,0 +1,39 @@
+# Retail Sales Analysis Report
+
+## Dataset Overview
+
+The dataset contains retail sales transactions across different product categories, including Technology, Furniture, and Office Supplies.
+
+## Objectives
+
+* Analyze sales performance by category
+* Analyze profit distribution by category
+* Visualize key business insights
+* Identify the highest-performing categories
+
+## Analysis Performed
+
+1. Loaded the dataset using Pandas.
+2. Explored the dataset structure and records.
+3. Calculated total sales by category.
+4. Calculated total profit by category.
+5. Created bar charts for sales and profit analysis.
+
+## Results
+
+### Sales by Category
+
+Technology generated the highest sales, followed by Furniture and Office Supplies.
+
+### Profit by Category
+
+Technology produced the highest profit among all categories.
+
+## Visualizations
+
+* category_sales.png
+* profit_analysis.png
+
+## Conclusion
+
+The analysis shows that Technology products contribute the most to both revenue and profit. Businesses can use these insights to focus inventory planning, marketing efforts, and sales strategies on high-performing categories.
